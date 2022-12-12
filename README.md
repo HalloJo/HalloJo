@@ -1,9 +1,9 @@
-🐄 Hi, I am @HalloJo,
-🇳🇱 I am Dutch and based in the Netherlands,
-🌷 I am currently learning React and Next,
-🏃‍♂️ I enjoy animating websites,
-🎨 I am also a graphic designer and illustrator
-🦖 and a Papasaurus.
-🖼️ Find my personal website here https://jorikvanruiswijk.nl/
-💼 and my pro-profile here https://www.linkedin.com/in/jorikvanruiswijk/
+🐄 Hi, I am @HalloJo,<br/>
+🇳🇱 I am Dutch and based in the Netherlands,<br/>
+🌷 I am currently learning React and Next,<br/>
+🏃‍♂️ I enjoy animating websites,<br/>
+🎨 I am also a graphic designer and illustrator<br/>
+🦖 and a Papasaurus.<br/>
+🖼️ Find my personal website here https://jorikvanruiswijk.nl/<br/>
+💼 and my pro-profile here https://www.linkedin.com/in/jorikvanruiswijk/<br/>
 🐊 Laters, gators!
