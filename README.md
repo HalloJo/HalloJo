@@ -1,6 +1,6 @@
 🐄 Hi, I am @HalloJo,<br/>
 🇳🇱 I am Dutch and based in the Netherlands,<br/>
-🌷 I am currently learning React and Next,<br/>
+🌷 I am currently learning ⚛️ React and ⏭️ Next,<br/>
 🏃‍♂️ I enjoy animating websites,<br/>
 🎨 I am also a graphic designer and illustrator<br/>
 🦖 and a Papasaurus.<br/>
