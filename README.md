@@ -1,3 +1,5 @@
+<h2>About me</h2>
+
 🐄 Hi, I am @HalloJo,<br/>
 🇳🇱 I am Dutch and based in the Netherlands,<br/>
 🌷 I am currently learning ⚛️ React and ⏭️ Next,<br/>
