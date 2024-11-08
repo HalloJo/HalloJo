@@ -1,11 +1,3 @@
 <h2>About me</h2>
 
-🐄 Hi, I am @HalloJo,<br/>
-🇳🇱 I am Dutch and based in the Netherlands,<br/>
-🌷 I am currently learning ⚛️ React and ⏭️ Next,<br/>
-🏃‍♂️ I enjoy animating websites,<br/>
-🎨 I am also a graphic designer and illustrator<br/>
-🦖 and a Papasaurus.<br/>
-🖼️ Find my personal website here https://jorikvanruiswijk.nl/<br/>
-💼 and my pro-profile here https://www.linkedin.com/in/jorikvanruiswijk/<br/>
-🐊 Laters, gators!
+🐄 Hi, I am Jorik van Ruiswijk, 🇳🇱 I am Dutch and based in the Netherlands. 💻 I am a self-taught front-end developer, 💼 working as a CTO @ Marketing for a Day, 🌷 and I am currently working with ⚛️ React.js, ⏭️ Next.js, 🚨 TypeScript and 💨 Tailwind.css. 🔐 I am studying Cyber Security, 🎨 and I am also a graphic designer and illustrator. 🖼️ Find my personal website here https://jorikvanruiswijk.nl/<br/>, 🪪 and my pro-profile here https://www.linkedin.com/in/jorikvanruiswijk/<br/>
